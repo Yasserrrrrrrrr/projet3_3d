@@ -1,30 +1,10 @@
-DE : Noms\_GitHub.md
-
-
-
-
-
-#### Noms des membres de l'équipe
+### Noms des membres de l'équipe
 
 Yasser Taoussi
 
 
 
-#### Lien GitHub du Projet
+### Lien GitHub du Projet
 
 https://github.com/Yasserrrrrrrrr/projet3\_3d
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
